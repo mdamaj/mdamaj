@@ -1,4 +1,4 @@
-![I am mdamaj](https://github.com/noob-hablu/noob-hablu/blog/main/code.png?raw=true)
+![I am mdamaj]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fprogramming-code-coding-hacker-sign-programming-code-icon-made-with-binary-code-wireframe-hand_198572753.htm&psig=AOvVaw1ji1ns9dDCFkFXROMXnEVv&ust=1750680238032000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPit36P-hI4DFQAAAAAdAAAAABAE")
 
 <h1 align="center">Hi 👋, I'm Md: Amaj Uddin Biswas(Imran)</h1>
 <h3 align="center">Full Stack Devoloper</h3>
