@@ -1,4 +1,4 @@
-![I am mdamaj](https://github.com/mdamaj/mdamaj/blob/main/code.png?raw=true)
+![I am mdamaj](https://github.com/noob-hablu/noob-hablu/blog/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Md: Amaj Uddin Biswas(Imran)</h1>
 <h3 align="center">Full Stack Devoloper</h3>
