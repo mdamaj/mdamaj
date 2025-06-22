@@ -1,4 +1,4 @@
-![I am mdamaj](https://github.com/harun181/harun181/blob/main/code.png?raw=true)
+![I am mdamaj](https://github.com/mdamaj/mdamaj/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Md: Amaj Uddin Biswas(Imran)</h1>
 <h3 align="center">Full Stack Devoloper</h3>
@@ -25,7 +25,7 @@ Skills: Java / PYTHON / REACT / JS / HTML / CSS
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://fb.com/mdamaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdamaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdamaj" height="30" width="40" /></a>
 <a href="https://codepen.io/mdamaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdamaj" height="30" width="40" /></a>
